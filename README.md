@@ -2,6 +2,8 @@
 
 **Protect your privacy from AI-powered GeoGuessr tools.**
 
+![geomask](logo.png)
+
 GeoMask lets you upload photos intended for social media, then automatically replaces the identifiable background view (e.g., your window’s scenery) with a decoy — a different city, a Swiss mountain village, or a custom scene of your choice.
 
 ---
@@ -54,9 +56,7 @@ docker run -p 5000:5000 geomask
 
 ## 🌟 Example
 
-| Original                          | GeoMasked                       |
-| --------------------------------- | ------------------------------- |
-| ![original](example/original.jpg) | ![geomask](example/geomask.jpg) |
+![geomask](example.png)
 
 ---
 
