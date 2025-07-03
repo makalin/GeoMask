@@ -186,7 +186,7 @@ make start
 
 ---
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgements
 
 - OpenAI for DALL-E image generation
 - FastAPI for the excellent web framework
